@@ -1,0 +1,5 @@
+.cart-box{
+    border: 3px solid lightgray;
+    box-sizing: border-box;
+    padding: 10px;
+}

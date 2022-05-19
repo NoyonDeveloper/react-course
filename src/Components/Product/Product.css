@@ -1,0 +1,17 @@
+.product-container{
+    display: flex;
+    float: left;
+    border-right: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    height: 200px;
+    padding-right: 5px;
+   
+}
+.product-container img{
+    width: 150px;
+    height: auto;
+    margin: 30px;
+}
+.enroll-btn{
+    cursor: pointer;
+}

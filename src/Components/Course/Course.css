@@ -1,0 +1,9 @@
+.course{
+    width: 80%;
+    float: left;
+    margin: auto;
+}
+.cart{
+    width: 20%;
+    overflow: hidden;
+}
